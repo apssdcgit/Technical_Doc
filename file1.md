@@ -1,2 +1,2 @@
 ### Technical Documentation
-Workshop on Source Code Management using git and github
+- Workshop on Source Code Management using git and github
