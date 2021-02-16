@@ -11,6 +11,7 @@ Welcome to Basic Project!
    :numbered:
    
    file1.md
+   file2.md
    
    
 
